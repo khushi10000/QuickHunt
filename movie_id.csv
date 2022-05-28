@@ -1,0 +1,251 @@
+title,movieId,id
+Toy Story,1,862.0
+Jumanji,2,8844.0
+Grumpier Old Men,3,15602.0
+Waiting to Exhale,4,31357.0
+Father of the Bride Part II,5,11862.0
+Heat,6,949.0
+Sabrina,7,11860.0
+Tom and Huck,8,45325.0
+Sudden Death,9,9091.0
+GoldenEye,10,710.0
+The American President,11,9087.0
+Dracula: Dead and Loving It,12,12110.0
+Balto,13,21032.0
+Nixon,14,10858.0
+Cutthroat Island,15,1408.0
+Casino,16,524.0
+Sense and Sensibility,17,4584.0
+Four Rooms,18,5.0
+Ace Ventura: When Nature Calls,19,9273.0
+Money Train,20,11517.0
+Get Shorty,21,8012.0
+Copycat,22,1710.0
+Assassins,23,9691.0
+Powder,24,12665.0
+Leaving Las Vegas,25,451.0
+Othello,26,16420.0
+Now and Then,27,9263.0
+Persuasion,28,17015.0
+The City of Lost Children,29,902.0
+Shanghai Triad,30,37557.0
+Dangerous Minds,31,9909.0
+Twelve Monkeys,32,63.0
+Babe,34,9598.0
+Dead Man Walking,36,687.0
+It Takes Two,38,33689.0
+Clueless,39,9603.0
+"Cry, the Beloved Country",40,34615.0
+Richard III,41,31174.0
+Dead Presidents,42,11443.0
+Restoration,43,35196.0
+Mortal Kombat,44,9312.0
+To Die For,45,577.0
+How To Make An American Quilt,46,11861.0
+Se7en,47,807.0
+Pocahontas,48,10530.0
+When Night Is Falling,49,8391.0
+The Usual Suspects,50,629.0
+Mighty Aphrodite,52,11448.0
+Lamerica,53,49133.0
+The Big Green,54,26441.0
+Georgia,55,97406.0
+Home for the Holidays,57,9089.0
+The Postman,58,11010.0
+The Indian in the Cupboard,60,11359.0
+Eye for an Eye,61,17182.0
+Mr. Holland's Opus,62,2054.0
+Don't Be a Menace to South Central While Drinking Your Juice in the Hood,63,10607.0
+Two If by Sea,64,19760.0
+Bio-Dome,65,9536.0
+Lawnmower Man 2: Beyond Cyberspace,66,11525.0
+French Twist,68,4482.0
+Friday,69,10634.0
+From Dusk Till Dawn,70,755.0
+Fair Game,71,11859.0
+Kicking and Screaming,72,28387.0
+Les Miserables,73,48750.0
+Bed of Roses,74,20927.0
+Big Bully,75,36929.0
+Screamers,76,9102.0
+Nico Icon,77,124626.0
+The Crossing Guard,78,27526.0
+The Juror,79,9623.0
+The White Balloon,80,46785.0
+Things to Do in Denver When You're Dead,81,400.0
+Antonia's Line,82,880.0
+Once Upon a Time... When We Were Colored,83,146599.0
+Angels and Insects,85,8447.0
+White Squall,86,10534.0
+Dunston Checks In,87,17414.0
+Black Sheep,88,13997.0
+Nick of Time,89,2086.0
+Mary Reilly,92,9095.0
+Vampire in Brooklyn,93,12158.0
+Beautiful Girls,94,9283.0
+Broken Arrow,95,9208.0
+A Midwinter's Tale,96,40154.0
+La Haine,97,406.0
+Heidi Fleiss: Hollywood Madam,99,63076.0
+City Hall,100,11062.0
+Bottle Rocket,101,13685.0
+Mr. Wrong,102,47475.0
+Unforgettable,103,2045.0
+Happy Gilmore,104,9614.0
+The Bridges of Madison County,105,688.0
+Nobody Loves Me,106,11907.0
+Muppet Treasure Island,107,10874.0
+Catwalk,108,89333.0
+Braveheart,110,197.0
+Taxi Driver,111,103.0
+Rumble in the Bronx,112,33542.0
+Before and After,113,43566.0
+Anne Frank Remembered,116,51352.0
+The Young Poisoner's Handbook,117,16934.0
+If Lucy Fell,118,10324.0
+Steal Big Steal Little,119,78406.0
+The Boys of St. Vincent,121,32119.0
+Boomerang,122,11066.0
+Chungking Express,123,11104.0
+Flirting with Disaster,125,2074.0
+The Neverending Story III: Escape from Fantasia,126,27793.0
+Jupiter's Wife,128,290157.0
+Pie in the Sky,129,110972.0
+Jade,132,11863.0
+Down Periscope,135,9101.0
+Man of the Year,137,5757.0
+Up Close & Personal,140,9302.0
+The Birdcage,141,11000.0
+The Brothers McMullen,144,16388.0
+Bad Boys,145,9737.0
+The Amazing Panda Adventure,146,30765.0
+The Basketball Diaries,147,10474.0
+An Awfully Big Adventure,148,22279.0
+Amateur,149,30157.0
+Apollo 13,150,568.0
+Rob Roy,151,11780.0
+The Addiction,152,34996.0
+Batman Forever,153,414.0
+Belle de Jour,154,649.0
+Beyond Rangoon,155,1873.0
+Blue in the Face,156,5894.0
+Canadian Bacon,157,1775.0
+Casper,158,8839.0
+Clockers,159,20649.0
+Congo,160,10329.0
+Crimson Tide,161,8963.0
+Crumb,162,26564.0
+Desperado,163,8068.0
+Devil in a Blue Dress,164,8512.0
+Die Hard: With a Vengeance,165,1572.0
+The Doom Generation,166,13552.0
+First Knight,168,6520.0
+Free Willy 2 - The Adventure Home,169,9073.0
+Hackers,170,10428.0
+Jeffrey,171,17447.0
+Johnny Mnemonic,172,9886.0
+Judge Dredd,173,9482.0
+Jury Duty,174,19326.0
+Kids,175,9344.0
+Living in Oblivion,176,9071.0
+Lord of Illusions,177,8973.0
+Love & Human Remains,178,15730.0
+Mad Love,179,47608.0
+Mallrats,180,2293.0
+Mighty Morphin Power Rangers: The Movie,181,9070.0
+Mute Witness,183,48787.0
+Nadja,184,34574.0
+The Net,185,1642.0
+Nine Months,186,11472.0
+Party Girl,187,36196.0
+The Prophecy,188,11980.0
+Reckless,189,58372.0
+Safe,190,32646.0
+The Scarlet Letter,191,10533.0
+Showgirls,193,10802.0
+Smoke,194,10149.0
+Something to Talk About,195,18402.0
+Species,196,9348.0
+Strange Days,198,281.0
+The Umbrellas of Cherbourg,199,5967.0
+Three Wishes,201,47939.0
+Total Eclipse,202,36834.0
+"To Wong Foo, Thanks for Everything! Julie Newmar",203,9090.0
+Under Siege 2: Dark Territory,204,3512.0
+Unstrung Heroes,205,52856.0
+Unzipped,206,77350.0
+A Walk in the Clouds,207,9560.0
+Waterworld,208,9804.0
+White Man's Burden,209,31611.0
+Wild Bill,210,65796.0
+The Browning Version,211,49805.0
+Bushwhacked,212,26258.0
+Burnt by the Sun,213,50797.0
+Before the Rain,214,19155.0
+Before Sunrise,215,76.0
+Billy Madison,216,11017.0
+The Babysitter,217,37141.0
+Boys on the Side,218,9382.0
+The Cure,219,6715.0
+Castle Freak,220,18256.0
+Circle of Friends,222,22625.0
+Clerks,223,2292.0
+Don Juan DeMarco,224,1909.0
+Disclosure,225,8984.0
+Drop Zone,227,4954.0
+Destiny Turns on the Radio,228,62488.0
+Death and the Maiden,229,10531.0
+Dolores Claiborne,230,11929.0
+Dumb and Dumber,231,8467.0
+Eat Drink Man Woman,232,10451.0
+Exotica,233,20156.0
+Exit to Eden,234,18395.0
+Ed Wood,235,522.0
+French Kiss,236,397.0
+Forget Paris,237,10525.0
+Far from Home: The Adventures of Yellow Dog,238,27985.0
+A Goofy Movie,239,15789.0
+Hideaway,240,27303.0
+Fluke,241,21183.0
+Farinelli,242,10954.0
+Gordy,243,47867.0
+Hoop Dreams,246,14275.0
+Heavenly Creatures,247,1024.0
+Houseguest,248,17207.0
+Immortal Beloved,249,13701.0
+Heavyweights,250,14819.0
+The Hunted,251,32631.0
+I.Q.,252,11777.0
+Interview with the Vampire,253,628.0
+Jefferson in Paris,254,87729.0
+The Jerky Boys,255,18713.0
+Junior,256,6280.0
+Just Cause,257,9061.0
+A Kid in King Arthur's Court,258,37108.0
+Kiss of Death,259,6071.0
+Star Wars,260,11.0
+Little Women,261,9587.0
+A Little Princess,262,19101.0
+Ladybird Ladybird,263,49980.0
+Like Water for Chocolate,265,18183.0
+Legends of the Fall,266,4476.0
+Major Payne,267,11008.0
+Mi Vida Loca,269,32325.0
+Love Affair,270,43742.0
+Losing Isaiah,271,28313.0
+The Madness of King George,272,11318.0
+Mary Shelley's Frankenstein,273,3036.0
+Man of the House,274,40490.0
+Mixed Nuts,275,24070.0
+Milk Money,276,8986.0
+Miracle on 34th Street,277,10510.0
+Miami Rhapsody,278,17402.0
+My Family,279,38722.0
+Murder in the First,280,8438.0
+Nobody's Fool,281,11593.0
+Nell,282,1945.0
+New Jersey Drive,283,39310.0
+New York Cop,284,109560.0
+Beyond Bedlam,285,56428.0
+Nina Takes a Lover,287,131957.0
+Natural Born Killers,288,241.0
