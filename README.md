@@ -3,7 +3,7 @@
 Welcome to Quick Hunt 
 
 Commands to run Project is:
-pip i -r requriements.txt
+pip install -r requirements.txt
 streamlit run home.py
 
 
